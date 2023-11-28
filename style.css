@@ -1,0 +1,18 @@
+p {
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	color: black;
+}
+a:hover {
+    background-color: gold;
+}
+a:visited {
+    background-color:antiquewhite;
+}
+div {
+    background-color: lightgrey;
+  width: 700px;
+  border: 15px solid purple;
+  padding: 50px;
+  margin: 20px;
+}
